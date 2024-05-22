@@ -68,3 +68,4 @@ export const NewNote = styled(Link)`
     margin-right: 8px;
   }
 `
+
